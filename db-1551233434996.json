@@ -1,0 +1,32 @@
+{
+  "categories": [
+    {
+      "_id": 1,
+      "name": "Gatos",
+      "display_name": "Gatos",
+      "description": "Crazy Cats"
+    },
+    {
+      "_id": 2,
+      "name": "Dogs",
+      "display_name": "Dogs",
+      "description": "Loveable Dogs"
+    }
+  ],
+  "products": [
+    {
+      "_id": 1,
+      "category": "Cat Nip",
+      "name": "All Natural Cat Nip",
+      "display_name": "All Natural Cat Nip",
+      "description": "100% All Natural Cat Nip"
+    },
+    {
+      "_id": 2,
+      "category": "Dog Treats",
+      "name": "Dog Treats",
+      "display_name": "100% All Natural Pig Ears",
+      "description": "Pigs Ears for your Best Friend"
+    }
+  ]
+}
